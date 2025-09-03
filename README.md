@@ -7,7 +7,7 @@ to_do_list-GDG
 
 ## 🌐 website link
 
-> [🔗 View the live site]:  
+> [🔗 View the live site]:  https://to-dol-ist.netlify.app/
 
 ------------------------------------------------------------------
 
